@@ -1,5 +1,3 @@
-# Jupyter_DS_Assignment_2024
-
 # Predicting Student Dropout and Academic Success
 
 This repository contains a Data Science project (2024) focused on analyzing and predicting student dropout rates and academic success. The project uses the UCI Machine Learning Repository dataset (https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) to explore patterns, extract insights, and build predictive models.
